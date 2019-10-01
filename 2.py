@@ -1,6 +1,6 @@
-a=input('Enter the string')
+b=input('Enter the string')
 e=0
-for i in a:
+for i in b:
     e+=1
 
-print('Lenght of string is',e)
+print('Lenght of string is','=',e)
