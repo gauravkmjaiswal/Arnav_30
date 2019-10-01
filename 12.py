@@ -10,7 +10,7 @@ for i in c:
         sum=sum+ord(i)-96
     else:
         pass
-print(sum)
+print("sum =",sum)
 import random
 q=random.randint(20,100)
 
